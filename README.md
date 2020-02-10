@@ -1,3 +1,3 @@
-# This is the projects README file.
+# This is the README file of the project.
 
-### replace me with important information.
+### replace me with necessary information.
