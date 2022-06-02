@@ -1,0 +1,19 @@
+O'reilly Learning Python
+Author: Mark Lutz
+
+
+
+Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly
+Beautiful World of Computers and Code, Third Edition, Video-Enhanced Edition
+By: Zed A. Shaw
+Publisher: Addison-Wesley Professional
+Pub. Date: October 1, 2013
+Web ISBN-13: 978-0-13-312431-6
+Web ISBN-10: 0-13-312431-2
+Print ISBN-13: 978-0-321-88491-6
+Print ISBN-10: 0-321-88491-4
+Pages in Print Edition: 320
+
+
+The Mouse Vs. The Python
+Python 101
