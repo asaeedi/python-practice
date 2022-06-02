@@ -1,4 +1,0 @@
-This is a simple text file previously added to the project github-upload.
-This line was added to the project from GitHub website.
-
-This line was originaly added to the project from a local computer.
